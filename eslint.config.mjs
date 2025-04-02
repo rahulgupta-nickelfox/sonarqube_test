@@ -19,7 +19,7 @@ const eslintConfig = [
     rules: {
       "sonarjs/cognitive-complexity": ["error", 15],
       "sonarjs/no-duplicate-string": "warn",
-      "no-unused-vars": "error",
+      "no-used-vars": "error",
     },
   },
 ];

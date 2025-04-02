@@ -1,0 +1,5 @@
+/home/rahulgupta/Documents/sonar-scanner/bin/sonar-scanner \
+  -Dsonar.projectKey=sonarqube_test \
+  -Dsonar.sources=/home/rahulgupta/Desktop/sonarqube_test/src \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=sqa_a919201f6fff6b2946b812803626a86902381e86
